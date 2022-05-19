@@ -10,6 +10,7 @@ box-shadow: 0px 0px 0px 43px 17px rgb(213, 31, 31);
     line-height: 70px;
     padding: 16px 8px;
     font-size: 25px;
+    border: solid 1px gray;
 }
 
 .buttons {
